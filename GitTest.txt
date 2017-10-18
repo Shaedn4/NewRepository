@@ -1,0 +1,9 @@
+
+<h1>Shopping list</h1>
+<ul>
+	<li>bread</li>
+	<li>flour</li>
+	<li>sugar</li>
+	<li>milk</li>
+	<li>butter</li>
+</ul>
